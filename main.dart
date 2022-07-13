@@ -2,7 +2,7 @@ import 'dart:ffi';
 import 'dart:math';
 
 /**
-  *Everything is Object, extend base Object same as Java
+  *Everything is Object (Exclude NULL), extend base Object same as Java
   * Do not have private, public, protected,  '_' understood as private
 
 
